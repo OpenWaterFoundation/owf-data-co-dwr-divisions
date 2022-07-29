@@ -32,7 +32,7 @@ A single version is published.
 
 ## Credits ##
 
-* The original data are from the [Colorado's Decision Support Systems District Boundaries dataset](https://cdss.colorado.gov/gis-data/gis-data-by-category)
+* The original data are from the [Colorado's Decision Support Systems District Boundaries dataset](https://cdss.colorado.gov/gis-data/gis-data-by-category).
 * The Open Water Foundation created and maintains the dataset.
 
 ## License ##
