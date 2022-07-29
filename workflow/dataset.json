@@ -1,0 +1,25 @@
+{
+  "title": "Colorado Division of Water Resources Divisions",
+  "description": "Colorado Division of Water Resources Divisions.",
+  "identifier": "owf-data-co-dwr-divisions",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/dwr/divisions/",
+  "issued": "2022-07-28",
+  "keyword": [
+    "polygon",
+    "colorado division of water resources",
+    "divisions"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Division of Water Resources Divisions"
+    }
+  ]
+}
