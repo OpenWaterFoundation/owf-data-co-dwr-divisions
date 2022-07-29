@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-108.559970, 37.074950, -103.199130, 40.634810],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-104.770840, 40.409420, -104.770840, 40.409420],
+      "properties": {
+        "OfficeName": "Division 1 Main Office (Greeley)",
+        "Division": 1.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-1-office",
+        "Longitude": -104.77084,
+        "Latitude": 40.40942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.770840, 40.409420]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-103.199130, 40.634810, -103.199130, 40.634810],
+      "properties": {
+        "OfficeName": "Division 1 Sterling Office",
+        "Division": 1.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-1-office",
+        "Longitude": -103.19913,
+        "Latitude": 40.63481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.199130, 40.634810]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.617550, 38.257370, -104.617550, 38.257370],
+      "properties": {
+        "OfficeName": "Division 2 Main Office (Pueblo)",
+        "Division": 2.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-2-office",
+        "Longitude": -104.61755,
+        "Latitude": 38.25737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.617550, 38.257370]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.829890, 38.894060, -104.829890, 38.894060],
+      "properties": {
+        "OfficeName": "Division 2 Colorado Springs Office",
+        "Division": 2.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-2-office",
+        "Longitude": -104.82989,
+        "Latitude": 38.89406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.829890, 38.894060]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-103.542700, 37.985860, -103.542700, 37.985860],
+      "properties": {
+        "OfficeName": "Division 2 La Junta Office",
+        "Division": 2.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-2-office",
+        "Longitude": -103.5427,
+        "Latitude": 37.98586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.542700, 37.985860]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.885080, 37.475810, -105.885080, 37.475810],
+      "properties": {
+        "OfficeName": "Division 3 Main Office (Alamosa)",
+        "Division": 3.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-3-office",
+        "Longitude": -105.88508,
+        "Latitude": 37.47581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.885080, 37.475810]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.147940, 37.579520, -106.147940, 37.579520],
+      "properties": {
+        "OfficeName": "Division 3 Monte Vista Office",
+        "Division": 3.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-3-office",
+        "Longitude": -106.14794,
+        "Latitude": 37.57952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.147940, 37.579520]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.009130, 37.074950, -106.009130, 37.074950],
+      "properties": {
+        "OfficeName": "Division 3 Antonito Office",
+        "Division": 3.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-3-office",
+        "Longitude": -106.00913,
+        "Latitude": 37.07495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.009130, 37.074950]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.136580, 38.088490, -106.136580, 38.088490],
+      "properties": {
+        "OfficeName": "Division 3 Saguache Office",
+        "Division": 3.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-3-office",
+        "Longitude": -106.13658,
+        "Latitude": 38.08849
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.136580, 38.088490]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.865040, 38.447500, -107.865040, 38.447500],
+      "properties": {
+        "OfficeName": "Division 4 Main Office (Montrose)",
+        "Division": 4.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-4-office",
+        "Longitude": -107.86504,
+        "Latitude": 38.4475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.865040, 38.447500]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.933960, 38.900870, -107.933960, 38.900870],
+      "properties": {
+        "OfficeName": "Division 4 Cedaredge Office",
+        "Division": 4.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-4-office",
+        "Longitude": -107.93396,
+        "Latitude": 38.90087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.933960, 38.900870]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.365570, 39.563950, -107.365570, 39.563950],
+      "properties": {
+        "OfficeName": "Division 5 Main Office (Glenwood Springs)",
+        "Division": 5.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-5-office",
+        "Longitude": -107.36557,
+        "Latitude": 39.56395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.365570, 39.563950]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.941410, 40.085480, -105.941410, 40.085480],
+      "properties": {
+        "OfficeName": "Division 5 Upper River Office",
+        "Division": 5.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-5-office",
+        "Longitude": -105.94141,
+        "Latitude": 40.08548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.941410, 40.085480]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.538930, 39.116560, -108.538930, 39.116560],
+      "properties": {
+        "OfficeName": "Division 5 Grand Junction Office",
+        "Division": 5.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-5-office",
+        "Longitude": -108.53893,
+        "Latitude": 39.11656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.538930, 39.116560]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.822240, 40.466220, -106.822240, 40.466220],
+      "properties": {
+        "OfficeName": "Division 6 Main Office (Steamboat Springs)",
+        "Division": 6.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-6-office",
+        "Longitude": -106.82224,
+        "Latitude": 40.46622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.822240, 40.466220]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.547050, 40.512740, -107.547050, 40.512740],
+      "properties": {
+        "OfficeName": "Division 6 Craig Office",
+        "Division": 6.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-6-office",
+        "Longitude": -107.54705,
+        "Latitude": 40.51274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.547050, 40.512740]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.890040, 37.271740, -107.890040, 37.271740],
+      "properties": {
+        "OfficeName": "Division 7 Main Office (Durango)",
+        "Division": 7.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-7-office",
+        "Longitude": -107.89004,
+        "Latitude": 37.27174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.890040, 37.271740]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.559970, 37.347840, -108.559970, 37.347840],
+      "properties": {
+        "OfficeName": "Division 7 Cortez Office",
+        "Division": 7.0,
+        "URL": "https://dwr.colorado.gov/division-offices/division-7-office",
+        "Longitude": -108.55997,
+        "Latitude": 37.34784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.559970, 37.347840]
+      }
+    }
+  ]
+}
